@@ -1,7 +1,14 @@
-### Hi there 👋
-<p align="center">
 ![code](https://user-images.githubusercontent.com/74874821/169705910-1a44ac15-cd08-4448-b80d-38d76fac7ddc.gif)
+<p align="center">
+  Fares Chobba ,
+  Software Engineering Student
 </p>
+###  Well have a seat , let's talk business 💬
+
+
+
+
+
 
 <!--
 **fareschobba/fareschobba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
