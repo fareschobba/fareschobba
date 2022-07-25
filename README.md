@@ -5,6 +5,7 @@
 </p></h1>
 <p align="center" color="#989898"> <h1>###  Well, have a seat , let's talk business  💬</h1> </p> 
 
+- 🔭 I’m currently working on a Flutter Mobile appliction  
 
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966](https://user-images.githubusercontent.com/74874821/169709123-cc7c31b9-a27d-42f5-80be-07f314e8b86d.gif)
 
