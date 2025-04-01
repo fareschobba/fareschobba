@@ -1,7 +1,7 @@
 
 <h1> <p align="center" color="#989898">
  Fares Chobba ,
-  Software Engineering Student
+  Software Engineer
 </p></h1>
 <p align="center" color="#989898"> <h1> Well, have a seat , let's talk business  💬</h1> </p> 
 
